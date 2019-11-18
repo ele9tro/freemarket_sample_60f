@@ -3,17 +3,8 @@
 # CLONE APP OF MERCARI
 This is a clone app of MERCARI.MERCARI is one of the biggest e-commerce apps in Japan.<br>Users can sell and buy any commodities they want.
 
-[![Image from Gyazo](https://i.gyazo.com/5b433387fcb96471cb4a5b2811915a73.gif)](https://gyazo.com/5b433387fcb96471cb4a5b2811915a73)
 
-
-
-
-
-
-
-
-
-
+![view](mercari.gif)
 
 
 
