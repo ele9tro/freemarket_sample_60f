@@ -1,4 +1,22 @@
-# README
+## README
+
+#CLONE APP OF MERCARI
+
+##This is a clone app of MERCARI.MERCARI is one of the biggest e-commerce apps in Japan.Users can sell and buy any commodities they want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # メルカリ DB設計
 
